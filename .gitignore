@@ -1,0 +1,4 @@
+# Some file extensions and directories I want to ignore
+*.csv
+data/
+secrets.txt
